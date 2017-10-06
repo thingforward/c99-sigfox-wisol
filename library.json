@@ -1,0 +1,20 @@
+{
+  "name": "c99-sigfox-wisol-WSSFM10R1AT",
+  "keywords": "sigfox, wisol, SFM10R1, WSSFM10R1AT",
+  "description": "C99 library for accessing SigFox modules based on WISOL SFM10R1AT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thingforward/c99-sigfox-wisol"
+  },
+  "authors": [
+    {
+      "name": "Andreas Schmidt",
+      "email": "andreas.schmidt@thingforward.io",
+      "url": "http://www.thingforward.io",
+      "maintainer": true
+    }
+  ],
+  "version": "0.1",
+  "frameworks": "*",
+  "platforms": "*"
+}
